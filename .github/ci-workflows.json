@@ -1,0 +1,6 @@
+{
+  "approvedBy": "HiddenDriver owner policy 2026-10-13; workflow changes delivered for review",
+  "workflows": {
+    ".github/workflows/images.yml": "5c65ea2366388acbf67949f293b20fb9231cdb75c4f9f4a28936c6ac45325a42"
+  }
+}
